@@ -1,0 +1,6 @@
+Special Palette: scouter.bmp
+Special Palette: face.bmp
+Special Palette: nose.bmp
+Special Palette: ear.bmp
+Special Palette: visor_black-export.bmp
+Special Palette: colors.bmp

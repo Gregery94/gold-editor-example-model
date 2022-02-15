@@ -1,0 +1,8 @@
+scouter.bmp
+face.bmp
+nose.bmp
+ear.bmp
+visor_black-export.bmp
+colors.bmp
+hanker.bmp
+chest.bmp
