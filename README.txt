@@ -11,7 +11,7 @@ steps:
 - *optional* click disable low res model. wait for it to calculate
 - click "import and add textures"
 - select textures.txt when prompted
-- select the berdly fbx when prompted
+- select the berd.fbx when prompted
 - select special texture mapping when prompted
 - you may select recalculate normals
 - when done, write the rom and play the game.
